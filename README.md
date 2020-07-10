@@ -20,7 +20,7 @@
     3 - somewhat positive
     4 - positive
 
-## 包依赖
+## 依赖
 * Python3.6
 * Tensorflow 1.9.0
 
